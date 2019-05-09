@@ -1,2 +1,2 @@
 # Oneplus
-This repository is for Oneplus project, including deghost, deblur and denoise
+This repository is for Oneplus project, including deghost, deblur and denoise.
